@@ -39,7 +39,7 @@ Open the powermail plugin and switch to the last tab called *Powermail Freebie* 
 
 ### 2.) Freebie page
 
-**Important**: The freebie page must be not cached!
+**Important**: The cache of any freebie page is disabled!
 
 Create any content element on a page (ideally the thank you page) and provide the same identifier as in the powermail plugin.
 
