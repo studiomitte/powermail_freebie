@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<xliff version="1.0">
+    <file source-language="en" date="2020-08-04T08:45:16+02:00">
+        <body>
+            <trans-unit id="powermail.flexforms.tab" resname="powermail.flexforms.tab">
+                <source>Powermail Freebie</source>
+            </trans-unit>
+            <trans-unit id="powermail.flexforms.enable" resname="powermail.flexforms.enable">
+                <source>Enable Powermail Freebie</source>
+            </trans-unit>
+            <trans-unit id="powermail.flexforms.id" resname="powermail.flexforms.id">
+                <source>Unique Identifier</source>
+            </trans-unit>
+            <trans-unit id="tt_content.freebie_code" resname="tt_content.freebie_code">
+                <source>Freebie Code</source>
+            </trans-unit>
+            <trans-unit id="tt_content.plugin.freebie_unset" resname="tt_content.plugin.freebie_unset">
+                <source>Powermail Freebie unset</source>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

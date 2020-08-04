@@ -1,0 +1,14 @@
+plugin.tx_powermail {
+    settings.setup {
+        dataProcessors {
+            21 {
+                class = StudioMitte\PowermailFreebie\DataProcessor\SessionDataProcessor
+            }
+        }
+    }
+}
+
+tt_content.list.20.powermailfreebie_unset = USER_INT
+tt_content.list.20.powermailfreebie_unset {
+    userFunc = StudioMitte\PowermailFreebie\Plugin\UnsetUserFunc->run
+}

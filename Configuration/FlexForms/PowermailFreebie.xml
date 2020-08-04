@@ -1,0 +1,29 @@
+<extra>
+    <ROOT>
+        <TCEforms>
+            <sheetTitle>LLL:EXT:powermail_freebie/Resources/Private/Language/locallang.xlf:powermail.flexforms.tab</sheetTitle>
+        </TCEforms>
+        <type>array</type>
+        <el>
+            <settings.flexform.powermailFreebie.enabled>
+                <TCEforms>
+                    <label>LLL:EXT:powermail_freebie/Resources/Private/Language/locallang.xlf:powermail.flexforms.enable</label>
+                    <config>
+                        <type>check</type>
+                        <default>0</default>
+                    </config>
+                </TCEforms>
+            </settings.flexform.powermailFreebie.enabled>
+
+            <settings.flexform.powermailFreebie.uniqueId>
+                <TCEforms>
+                    <label>LLL:EXT:powermail_freebie/Resources/Private/Language/locallang.xlf:powermail.flexforms.id</label>
+                    <config>
+                        <type>input</type>
+                        <eval>trim</eval>
+                    </config>
+                </TCEforms>
+            </settings.flexform.powermailFreebie.uniqueId>
+        </el>
+    </ROOT>
+</extra>
